@@ -1,3 +1,1 @@
-<html>
-  <object data="DevDeepNarayan(22BCE11141)3.0.pdf" type="application/pdf" width="100%" height="600px"></object>
-</html>
+[📄 View Resume (PDF)](https://github.com/Haiirohito/Resume/blob/main/DevDeepNarayan(22BCE11141)3.0.pdf)
